@@ -210,30 +210,9 @@
   },
   "Unit Tests": {
     "coverage": {
-      "/path/to/source/src/player.rb": {
-        "lines": [],
-        "branches": {
-          "a": {
-            "b": 1,
-            "c": 0
-          }
-        }
-      }
     },
     "timestamp": 1591834440
   },
   "Unit Tests": {
-    "coverage": {
-      "/path/to/source/src/player.rb": {
-        "lines": [],
-        "branches": {
-          "a": {
-            "b": 1,
-            "c": 0
-          }
-        }
-      }
-    },
-    "timestamp": 1591834440
   }
 }
